@@ -37,7 +37,7 @@ A creative recreation of Nicolo Miranda's Paper Portfolio, featuring smooth scro
 
 The project is live and accessible here:  
 [Live Demo](https://ziasani.github.io/Nicolo-Miranda-Paper-Portfolio/)  
-(Replace `#` with your GitHub Pages link or other hosting link)
+
 
 ## Future Improvements
 
